@@ -16,5 +16,7 @@
     "**/*.js",
     "**/*.jsx",
     ".expo/**/*.js",
-    ".expo/**/*.jsx"]
+    ".expo/**/*.jsx",
+    "nativewind-env.d.ts"
+  ]
 }
